@@ -1,2 +1,2 @@
 #Kaide Wu
-![Alt Text](wallpaper/)
+![ ](wallpaper/faded.png)
