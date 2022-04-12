@@ -1,5 +1,5 @@
 # Welcome!
-Current project: [My Home Cloud](https://github.com/kaidewu/MyHomeCloud)
+Current project: [Cloud Storage Local](https://github.com/kaidewu/MyHomeCloud)
 
 Standby: [My Portfolio Website](https://kaidewu.github.io)
 
