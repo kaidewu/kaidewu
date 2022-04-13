@@ -7,9 +7,11 @@
 
 Current project: [Cloud Storage Local](https://github.com/kaidewu/MyHomeCloud)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&repo=MyHomeCloud)](https://github.com/kaidewu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=tokyonight&repo=MyHomeCloud)](https://github.com/kaidewu/github-readme-stats)
 
 Standby: [My Portfolio Website](https://kaidewu.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=tokyonight&repo=MyHomeCloud)](https://github.com/kaidewu/github-readme-stats)
 
 ---
 
