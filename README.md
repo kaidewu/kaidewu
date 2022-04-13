@@ -11,4 +11,4 @@ Standby: [My Portfolio Website](https://kaidewu.github.io)
 
 ---
 
-![Wallpaper](wallpaper/wallpaperGalaxy.gif)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaidewu&hide=javascript,html&theme=tokyonight&layout=compact)
