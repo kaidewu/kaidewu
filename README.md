@@ -5,11 +5,9 @@
 
 ---
 
-Current project: [Cloud Storage Local](https://github.com/kaidewu/MyHomeCloud)
+Current project: [Website with bunch of things](https://github.com/kaidewu/Cloudy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=buefy&repo=MyHomeCloud)](https://github.com/kaidewu/MyHomeCloud)
-
-Standby: [My Portfolio Website]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=buefy&repo=Cloudy)](https://github.com/kaidewu/Cloudy)
 
 ---
 
