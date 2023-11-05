@@ -5,7 +5,7 @@
 
 ---
 
-Current project: [Website with bunch of things](https://github.com/kaidewu/Cloudy)
+Current project: [Portfolio build with Reflex](https://github.com/kaidewu/portfolio-reflex)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=buefy&repo=Cloudy)](https://github.com/kaidewu/Cloudy)
 
