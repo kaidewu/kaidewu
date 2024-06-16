@@ -5,7 +5,7 @@
 
 ---
 
-Current project: [Portfolio build with Reflex](https://github.com/kaidewu/portfolio-reflex)
+Current project: [sinasuite-dl](https://github.com/kaidewu/sinasuite-dl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaidewu&theme=buefy&repo=portfolio-reflex)](https://github.com/kaidewu/portfolio-reflex)
 
